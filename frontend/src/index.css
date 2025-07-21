@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body, html {
+    font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+  }
